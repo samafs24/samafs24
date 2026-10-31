@@ -6,10 +6,26 @@
 I started out in the lab and ended up in the data. With an MSc in Applied Bioinformatics, I spent my early work analysing RNA-seq and clinical data and building pipelines in R and Python. Now I bring that same analytical thinking to business problems, building client dashboards and analytics solutions with Tableau, Alteryx, SQL and Snowflake.
 
 **What I do**
-- 🔍 **Investigate**: dig into messy, complex datasets to find what matters
-- 📈 **Visualise**: build clear, interactive dashboards in Tableau
-- 🧪 **Model**: apply statistics to real-world data
-- 🗄️ **Engineer**: design databases and data workflows with SQL and Alteryx
+- 🔍 **Investigate**: Dig into messy, complex datasets to find what matters
+- 📈 **Visualise**: Build clear, interactive dashboards in Tableau
+- 🧪 **Model**: Apply statistics to real-world data
+- 🗄️ **Engineer**: Design databases and data workflows with SQL and Alteryx
+
+## 🛠️ My Toolkit
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat&logo=alteryx&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+
+## 🏅 Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/0f9248f2-2bb9-49e1-986e-8ef42ccddc5f/public_url">
+    <img src="Certifications/alteryx-designer-core-certification.png">
+  </a>
+</p>
 
 ## ⭐ Featured work
 
@@ -30,15 +46,7 @@ Deep learning model built in Python (TensorFlow/Keras) to automatically classify
 
 Developed a MySQL database of 50,000+ phenotype records, fed by reproducible R pipelines for data cleaning, integration and quality control. An interactive RShiny dashboard (Plotly, DBI) allows dynamic exploration of genotype–phenotype relationships, while PCA, UMAP and clustering identify gene groups with shared phenotypes
 
-# 🛠️ My Toolkit
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat&logo=alteryx&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+## 📫 Find me
+[LinkedIn](www.linkedin.com/in/rahimafsana17)· [Tableau Public](https://public.tableau.com/app/profile/rahim.afsana/vizzes) · [DS Blogs](https://www.thedataschool.co.uk/blog/rahim-afsana/)
 
-## 🏅 Certifications
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0f9248f2-2bb9-49e1-986e-8ef42ccddc5f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
