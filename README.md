@@ -50,6 +50,6 @@ Deep learning model built in Python (TensorFlow/Keras) to automatically classify
 Developed a MySQL database of 50,000+ phenotype records, fed by reproducible R pipelines for data cleaning, integration and quality control. An interactive RShiny dashboard (Plotly, DBI) allows dynamic exploration of genotype–phenotype relationships, while PCA, UMAP and clustering identify gene groups with shared phenotypes
 
 ## 📫 Find me
-[LinkedIn](www.linkedin.com/in/rahimafsana17)· [Tableau Public](https://public.tableau.com/app/profile/rahim.afsana/vizzes) · [DS Blogs](https://www.thedataschool.co.uk/blog/rahim-afsana/)
+[LinkedIn](https://www.linkedin.com/in/rahimafsana17)· [Tableau Public](https://public.tableau.com/app/profile/rahim.afsana/vizzes) · [DS Blogs](https://www.thedataschool.co.uk/blog/rahim-afsana/)
 
 
