@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi, I'm Rahim 👋
 
-<!--
+### Data Analytics Consultant in training 📊
+*Turning messy data into clear, useful stories*
+
 **samafs24/samafs24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
