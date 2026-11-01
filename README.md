@@ -3,7 +3,7 @@
 ### Data Analytics Consultant at The Information Lab 📊
 *Building dashboards people actually want to use*
 
-I started out in the lab and ended up in the data. With an MSc in Applied Bioinformatics, I spent my early work analysing RNA-seq and clinical data and building pipelines in R and Python. Now I bring that same analytical thinking to business problems, building client dashboards and analytics solutions with Tableau, Alteryx, SQL and Snowflake.
+I started out in the lab and ended up in the data. With an MSc in Applied Bioinformatics, I spent my early work analysing RNA-seq and clinical data and building pipelines in R and Python. Now I bring that same analytical thinking to business problems, building client dashboards and analytics solutions with tools like Tableau, Alteryx, SQL and Snowflake.
 
 **What I do**
 - 🔍 **Investigate**: Dig into messy, complex datasets to find what matters
